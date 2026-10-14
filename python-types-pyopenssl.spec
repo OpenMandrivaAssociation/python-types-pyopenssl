@@ -3,7 +3,7 @@
 
 Name:		python-types-pyopenssl
 Version:	24.1.0.20240722
-Release:	3
+Release:	4
 Source0:	https://files.pythonhosted.org/packages/source/t/%{module}/%{module}-%{version}.tar.gz
 Summary:	Typing stubs for pyOpenSSL
 URL:		https://pypi.org/project/types-pyopenssl/
